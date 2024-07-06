@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bojack Horseman Text Analysis</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
+        <script src="bojackfull/web_session/networks.js"></script>
+    </head>
+    <body>
+        <nav>
+            <h1>Bojack Horseman</h1>
+            <ul>
+                <li>
+                    <a href="index.html" class="navbut">Home</a>
+                </li>
+                <li>
+                    <a href="page1.html" class="navbut">Scrapping</a>
+                </li>
+                <li>
+                    <a href="page2.html" class="navbut">Visualization</a>
+                </li>
+                <li>
+                    <a href="page3.html" class="navbut">Analysis</a>
+                </li>
+                <li>
+                    <a href="about.html" class="navbut">About</a>
+                </li>
+                <li>
+                    <a href="https://github.com/spookybeetle/bojack" class="navbut">GitHub</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="main" id="pg2">
+            <h2>Project of Bojack Horseman</h2>
+            <h3>By Savannah</h3>
+            <div class="data">
+                <h4>The Visualization</h4>
+                <p> After Milo has completed the scrapping and auto tagging of all the text script,
+                    I then take the scripts and import them to eXist-db to xQuery them. I used
+                    xQuery to help separate and list out pieces of information that are deemed
+                    useful. In this example, I’ve deemed all pieces of text that are surrounded by
+                    music notes to be pulled and listed alongside the season it appeared in. Dr.
+                    Beshero-Bondar and I collaborated on this xQuery to get the song lyrics since
+                    for-loops are not my strong suit. I did, however, learn from that collaboration
+                    and created another xQuery to section the music into episodes. In the figure
+                    below is part of the output I got after xQuery: </p>
+                <figure class="code">
+                    <code>Music: ♪ got a heart full of birthday-- ♪ Season Count: 1 S:6<br /> Music:
+                        ♪ bye ♪ Season Count: 1 S:6<br /> Music: ♪ who's that dog? ♪ Season Count: 2
+                        S:6<br /> Music: ♪ who's that dog? ♪ Season Count: 1 S:1<br /> Music: ♪
+                        who's that dog? ♪ Season Count: 1 S:3<br /> Music: ♪ who's that dog? ♪
+                        Season Count: 1 S:4<br /> Music: ♪ mr. peanutbutter ♪ Season Count: 2
+                        S:6<br /> Music: ♪ mr. peanutbutter ♪ Season Count: 1 S:1<br /> Music: ♪ mr.
+                        peanutbutter ♪ Season Count: 1 S:3<br /> Music: ♪ and you think you're never
+                        wrong ♪ Season Count: 1 S:6<br /> Music: ♪ oh, but you're so-so, honey ♪
+                        Season Count: 1 S:6<br /> Music: ♪ oh, yeah, you're so-so, honey ♪ Season
+                        Count: 1 S:6<br /> Music: ♪ you think you got it all ♪ Season Count: 1
+                        S:6<br /> Music: ♪ if i knew i waited too long ♪ Season Count: 1 S:6<br />
+                        Music: ♪ i'd find a song to push the time along ♪ Season Count: 1 S:6</code>
+                </figure>
+                <p>I then took that output and imported it into CytoScape to visualize the data.
+                    CytoScape is good with networking and can network large amounts of data at once.
+                    For this example, I set the lyrics to be connected to each season it appeared
+                    in. I also have it set to have the connecting lines to have a growing width
+                    based on how repetitive it is per season, same with its color gradient. Below is
+                    the Music Network in Seasons, you can zoom and move elements around below:</p>
+            </div>
+            <figure>
+                <div id="cy">
+                    <script src="bojackfull/web_session/networks.js"> </script>
+                    <script src="bojackfull/web_session/styles.js"> </script>
+                    <script src="bojackfull/web_session/scripts/vendor.js"></script>
+                    <script src="bojackfull/web_session/scripts/main.js"></script>
+                </div>
+            </figure>
+            <div class="data">
+                <p>I used the same xQuery process from making the seasons network to make the
+                    episodes network. Here is the xQuery Output I got along with the Music Network
+                    in Seasons. <b>Be sure to click the Music Network in Episodes picture</b> to see
+                    the full network in action. </p>
+                <figure class="code">
+                    <code>Music: ♪ got a heart full of birthday-- ♪ id Count: 1 i:602<br /> Music: ♪
+                        bye ♪ id Count: 1 i:602<br /> Music: ♪ who's that dog? ♪ id Count: 1
+                        i:614<br /> Music: ♪ who's that dog? ♪ id Count: 1 i:104<br /> Music: ♪
+                        who's that dog? ♪ id Count: 1 i:310<br /> Music: ♪ who's that dog? ♪ id
+                        Count: 1 i:409<br /> Music: ♪ who's that dog? ♪ id Count: 1 i:602<br />
+                        Music: ♪ mr. peanutbutter ♪ id Count: 1 i:609<br /> Music: ♪ mr.
+                        peanutbutter ♪ id Count: 1 i:104<br /> Music: ♪ mr. peanutbutter ♪ id Count:
+                        1 i:310<br /> Music: ♪ mr. peanutbutter ♪ id Count: 1 i:602<br /> Music: ♪
+                        and you think you're never wrong ♪ id Count: 1 i:601<br /> Music: ♪ oh, but
+                        you're so-so, honey ♪ id Count: 1 i:601<br /> Music: ♪ oh, yeah, you're
+                        so-so, honey ♪ id Count: 1 i:601<br /> Music: ♪ you think you got it all ♪
+                        id Count: 1 i:601<br /> Music: ♪ if i knew i waited too long ♪ id Count: 1
+                        i:601<br /> Music: ♪ i'd find a song to push the time along ♪ id Count: 1
+                        i:601<br /> Music: ♪ change works so well for you ♪ id Count: 1 i:601<br />
+                        Music: ♪ 'cause you're so-so, honey ♪ id Count: 1 i:601<br /> Music: ♪ and
+                        you start to sing along ♪ id Count: 1 i:601</code>
+                </figure>
+            </div>
+            <figure>
+                <a href="musicToEpNet.html">
+                    <img src="images/BojackMusicPerEp.png" alt="A PNG of Music Network in Episodes"
+                     />
+                </a>
+            </figure>
+            <div class="data">
+                <h4>Limitations</h4>
+                <p>There was quite a bit of limitations to this project unfortunately. Like Milo
+                    said, Netflix is very vague with providing scripts to the public and couldn’t
+                    fine a script that provided who was talking. So that effected the auto tagging
+                    and now it effects the Visualization. </p>
+                <p>There weren’t many directions to go when it came done to networking, so I chose
+                    to network what would be the easiest to query, and that was the music lyrics.
+                    Most songs had this little song note symbol around each line which was easy fine
+                    via xQuery. The next thing that didn’t help was that if I wanted to start
+                    xQuerying the auto tagged scripts and find an inconsistency in the tagging that
+                    could greatly impact the network, I’d have to stop, let Milo know of the
+                    situation, have him go back to python and fix such inconsistency, and load out a
+                    new set of auto tagged scripts for me to use instead. This was such an annoyance
+                    since everything leading up to the Visualization is all based on the initial
+                    Python auto tagging. So if we wanted an accurate network, we’d have to rely that
+                    the Python has worked the best as it could or else the whole visualization
+                    network will start over </p>
+            </div>
+        </div>
+        <footer>
+            <p>Project of Bojack Horseman, <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+                        alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This
+                work is licensed under a <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+                    Attribution-NonCommercial 4.0 International License</a>.</p>
+        </footer>
+    </body>
+</html>

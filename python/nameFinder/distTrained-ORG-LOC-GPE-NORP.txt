@@ -1,0 +1,1711 @@
+Aaron : PERSON
+Aaron Eckhart : PERSON
+Abby : PERSON
+Abe : PERSON
+Abe Lincoln : PERSON
+Abel : PERSON
+Abercrombie : ORG
+Abraham Lincoln : PERSON
+Academy : ORG
+Academy?- : PERSON
+Achilles : PERSON
+Adam : PERSON
+Adam Levine : PERSON
+Adelaide : GPE
+Adele : PERSON
+Advanced Physics : ORG
+Affleck : PERSON
+Africa : LOC
+Afro : NORP
+Afterfell : PERSON
+Ahem : PERSON
+Alan : PERSON
+Alaska : GPE
+Alaskans : NORP
+Albert Brooks : PERSON
+Albert Hammond : PERSON
+Alec Guinness : PERSON
+Alex : PERSON
+Alexi Brosefino : PERSON
+Alfa Romeo : ORG
+Alison : ORG
+Allen : PERSON
+Alma : PERSON
+Aloha : ORG
+Amanda : PERSON
+Amanda Hannity : PERSON
+Amazon : ORG
+Amelia Earhart : PERSON
+America : GPE
+American : NORP
+American Greeting : ORG
+Americano : GPE
+Americans : NORP
+Amy : PERSON
+Amy Adams : PERSON
+Ana : PERSON
+Ana Spanakopita : PERSON
+Ana Spanikopita : PERSON
+Anaheim : GPE
+Andrew : PERSON
+Andrew Garfield : PERSON
+Andrew Lloyd Webber : PERSON
+Andsaid : PERSON
+Andy : PERSON
+Andy Dick : PERSON
+Ang Lee : PERSON
+Angela : PERSON
+Angela Diaz : PERSON
+Angelica : PERSON
+Angsty : ORG
+Angsty Zebra : PERSON
+Ann Dowd : PERSON
+Anne : PERSON
+Anne Frank.- : PERSON
+Ansel Elgort : ORG
+Aquafina : GPE
+Arafat : PERSON
+Arbus : ORG
+Ari Emanuels : PERSON
+Arnold Palmer : PERSON
+Artie : PERSON
+Arturo Fonzarelli : PERSON
+Aryan : NORP
+Aryans : NORP
+Ashton : PERSON
+Asian : NORP
+Attagirl : ORG
+Atwater : LOC
+Audrey : PERSON
+Auschwitzes : ORG
+Austin : GPE
+Australian : NORP
+Ayako : PERSON
+Azusa : LOC
+B!- : PERSON
+Baby Jessica : PERSON
+Backstrom : ORG
+Bagel : PERSON
+Bahamas : GPE
+Bailey : PERSON
+Bakersfield : GPE
+Banks : PERSON
+Banksy : PERSON
+Barbara : PERSON
+Barbara Kruger : PERSON
+Barbarelli : ORG
+Barbra Streisand : PERSON
+Barf : PERSON
+Barnard : PERSON
+Barry : PERSON
+Barry Gibb : PERSON
+Basil : PERSON
+Batman : PERSON
+Baxter : PERSON
+Baxter Bellamy : PERSON
+Bea : PERSON
+Beardo : PERSON
+Beatle : PERSON
+Beatrice : PERSON
+Beatrice Elizabeth Sugarman : PERSON
+Beatrice Horseman : PERSON
+Beatrice Sugarman : PERSON
+Beautifully : PERSON
+Becca : PERSON
+Beck : PERSON
+Beethoven : PERSON
+Bella : PERSON
+Belle : ORG
+Belushi : PERSON
+Ben Affleck : PERSON
+Ben Stein : PERSON
+Ben Stiller : PERSON
+Benjamin Bratt : PERSON
+Benjamin Button : PERSON
+Benjamin Franklin : PERSON
+Benny : PERSON
+Bernsen : PERSON
+Berto Eco : PERSON
+Best Picture : ORG
+Beth : PERSON
+Better Business Bureau : ORG
+Betty Buenaventura : PERSON
+Beverly Garbage : GPE
+Beverly Hills : GPE
+Beyoncé : PERSON
+Bielist : PERSON
+Big Andy : ORG
+Big Bear : ORG
+Bill Murray : PERSON
+Billy Bob : PERSON
+Billy Bush Type : PERSON
+Billy Crystal : PERSON
+Billy Crystal Meth : PERSON
+Billy Zane.- : PERSON
+Biscuits : ORG
+Biscuits Braxby : ORG
+Black Hawk : PERSON
+Blake : PERSON
+Blake Lively : PERSON
+Blanchett : PERSON
+Blarn : PERSON
+Blech : PERSON
+Bleh : PERSON
+Blinky : PERSON
+Blockbuster Video : ORG
+Bluff : LOC
+BoJack : PERSON
+BoJack Horseman : PERSON
+Bobby : PERSON
+Boggleso : ORG
+Boj : GPE
+Bon Jovi : ORG
+Boner : PERSON
+Bonito : ORG
+Booth Cam : PERSON
+Booty Academy : ORG
+Bora : GPE
+Bora Bora : PERSON
+Boreabble : PERSON
+Boreanaz : PERSON
+Boreanaz House : ORG
+Boston : GPE
+Bostonand : ORG
+Bostwick : GPE
+Botticelli : PERSON
+Boulder : GPE
+Bowiedead : PERSON
+Boy Wizard : ORG
+Brad : PERSON
+Brad Garrett : PERSON
+Brad Pitt : PERSON
+Braff : PERSON
+Braff Bucks : ORG
+Brandon : PERSON
+Brangelinas : PERSON
+Bratt : ORG
+Braxby : ORG
+Bread : PERSON
+Brendan : PERSON
+Brendan Fraser : PERSON
+Brentwood : GPE
+Bridges : PERSON
+Bridget : PERSON
+Brie : PERSON
+Brighton Beach : GPE
+Bristol Farms : ORG
+British : NORP
+Bronson Pinchot : PERSON
+Brooklynites : GPE
+Brotherly Angels : ORG
+Brown : PERSON
+Brownsburg : GPE
+Brrap : ORG
+Bruce : PERSON
+Bruce Springsteen : PERSON
+Brussels : GPE
+Bryan : PERSON
+Bryan Singer : PERSON
+Bryce : PERSON
+Bucking : GPE
+Buckner : ORG
+Buenaventura : GPE
+Buffalo : GPE
+Bugles : ORG
+Bundt : PERSON
+Buster Keaton : PERSON
+Butler : PERSON
+Butterscotch : ORG
+Butterscotch Horseman : ORG
+Buzzy : PERSON
+Cabo : LOC
+Cabracadabra : PERSON
+Cadbury Creme Eggs : ORG
+California : GPE
+California Pizza Kitchen : ORG
+Californians : NORP
+Calvin Klein : PERSON
+Cambridge : GPE
+Cameron : PERSON
+Cameron Crow : PERSON
+Canadian : NORP
+Cannes : GPE
+Capri Sunand : PERSON
+Cardigan : PERSON
+Cardigan Burke : PERSON
+Carey : ORG
+Carey Mulligan : PERSON
+Carl : PERSON
+Carla : PERSON
+Carla Mercedes : PERSON
+Carla Mercedes Benz... Brown : PERSON
+Carla Mercedes Benzbrown : PERSON
+Carlos : PERSON
+Carlotta : ORG
+Carnegie : ORG
+Carol : PERSON
+Carol Himmelfarb : PERSON
+Carolyn : PERSON
+Carrie : PERSON
+Carrie Underwood : PERSON
+Carson : PERSON
+Casanova : ORG
+Casey : PERSON
+Cassady : PERSON
+Cate : PERSON
+Cate Blanchett : PERSON
+Cathy Lee Crosby : PERSON
+Cazador : PERSON
+Cedars : PERSON
+Central Valley : LOC
+Chad Michael Murray : PERSON
+Chandler : PERSON
+Channing : PERSON
+Channing Tatum : PERSON
+Chaperoned : PERSON
+Charles Lindbergh : PERSON
+Charles Regatta.- : PERSON
+Charley : PERSON
+Charley Witherspoon : PERSON
+Charlie : PERSON
+Charlie Chaplin : PERSON
+Charlie Sheen : PERSON
+Charlie Witherspoon : PERSON
+Charlize Theron : PERSON
+Charlotte : PERSON
+Chavez : PERSON
+Cheadle : PERSON
+Chechnya : GPE
+Check.- Burner : PERSON
+Cheez : ORG
+Chelsea Clinton : PERSON
+Chewbacca : PERSON
+Cheyenne : GPE
+Chicago : GPE
+Chicago Bulls : ORG
+Chicagoan : GPE
+Chicagoans : NORP
+Chili : LOC
+Chin : PERSON
+Chinese : NORP
+Chloe : PERSON
+Chloë Grace : PERSON
+Chloë Sevigny : PERSON
+Chomsky : PERSON
+Chris : PERSON
+Chris Brown : PERSON
+Chris Kattan : PERSON
+Chris Klein : PERSON
+Chris Martin : PERSON
+Chris Pine : PERSON
+Chrissy Teigen : PERSON
+Christian : NORP
+Chuff : ORG
+Chuff Hollister : PERSON
+Cincinnati : GPE
+Cinderella : PERSON
+Cindy : PERSON
+Cindy Crawfish : PERSON
+Cinnabungalow : ORG
+Clarksville : GPE
+Clemelia : PERSON
+Clemelia Bloodsworth : PERSON
+Clentists : PERSON
+Cliffe : PERSON
+Clooners : PERSON
+Clyde : PERSON
+Coachella : PERSON
+Cobb : PERSON
+Coen Brothers : ORG
+Coffee Maker : ORG
+Coin Sorter : ORG
+Coke : ORG
+Colin Farrell : PERSON
+Columbia : ORG
+Comic Sans : ORG
+Commodities : ORG
+Communications : ORG
+Compound Streep : ORG
+Confederate : ORG
+Congress : ORG
+Connecticut : GPE
+Content Spew : ORG
+Contra Costa County : LOC
+Coolsville : GPE
+Cooper : PERSON
+Cooper Thomas Rogers Wallace : ORG
+Cooper Three : ORG
+Coopers : ORG
+Copernicus : ORG
+Copperplate : ORG
+Corbin : PERSON
+Corbin Creamerman : ORG
+Cordovia : PERSON
+Cordovian : ORG
+Cordovian Prince Gustav : ORG
+Corduroy : ORG
+Corduroy Jackson : ORG
+Cornelius Vanderbilt : PERSON
+Cosby : PERSON
+Cottage Grove : GPE
+Court : ORG
+Courteney Cox : PERSON
+Courtney : PERSON
+Courtney Portnoy : PERSON
+Craig Bierko : PERSON
+Craig Ferguson : PERSON
+Cranky : PERSON
+Creamerman : ORG
+Creamy Cream : ORG
+Creed : PERSON
+Crikey : PERSON
+Crispin Glover : PERSON
+Cruella : PERSON
+Cubs : ORG
+Cuddlywhiskers : ORG
+Cupe Robinson : PERSON
+Cutie Cutie : PERSON
+Cynthia Nixon : PERSON
+Dad : PERSON
+Dada : PERSON
+Daisy : PERSON
+Dakota : GPE
+Daniel : PERSON
+Daniel Day : PERSON
+Daniel Radcliffe : PERSON
+Danny : PERSON
+Danny Bananas : PERSON
+Dare : PERSON
+Darlene : PERSON
+Darneesa : PERSON
+Darren : PERSON
+Dartmouth : ORG
+Dashawn Manheim : PERSON
+Dathan : PERSON
+Dave Roberts : PERSON
+Davey : PERSON
+David : PERSON
+David Boreanaz : PERSON
+David Boreanaz.- : PERSON
+David Bowie : PERSON
+David Chase : PERSON
+David Copperfield : PERSON
+David Hasselhoff : PERSON
+David Levy : PERSON
+David Pincher : PERSON
+Davie : PERSON
+Daylight Savings : ORG
+Dayz : PERSON
+Dear Herb : PERSON
+Decapitator : PERSON
+Dee : PERSON
+Deedee : PERSON
+Delilah : PERSON
+Delta : LOC
+Dementia : PERSON
+Denis Leary : PERSON
+Denise : PERSON
+Dennis : PERSON
+Dennis Rodman : PERSON
+Derek : PERSON
+Derek Jeter : PERSON
+Detective Philbert : PERSON
+Devil : PERSON
+Devon : PERSON
+Diana : PERSON
+Diane : PERSON
+Diane Arbus : PERSON
+Diane Lane : PERSON
+Diane Nguyen : PERSON
+Diane Peninsula : PERSON
+Diane Warren : PERSON
+Diane!- : PERSON
+Diane.- : PERSON
+Dianes : PERSON
+Dick : PERSON
+Dick Wolf : PERSON
+Diego : GPE
+Diego Mendoza : PERSON
+Dillon : PERSON
+Disney : ORG
+Disney World : ORG
+Disneyland : ORG
+Dodger : GPE
+Doggie : PERSON
+Doggy : PERSON
+Domto : ORG
+Donald : PERSON
+Donna : PERSON
+Doris : PERSON
+Dorothy : PERSON
+Doth : PERSON
+Doug : PERSON
+Dow Chemical : ORG
+Downer : PERSON
+Drake : PERSON
+Dre : PERSON
+Drew : PERSON
+Drew Barrymore : PERSON
+Driver : PERSON
+Drop : PERSON
+Dubai : GPE
+Dulls : ORG
+Dumbass Unicorn : PERSON
+Dunham : PERSON
+Dustin Hoffman : PERSON
+Earth : LOC
+East Coast : LOC
+Ecch : PERSON
+Eddie : PERSON
+Eddie Money : PERSON
+Eddie Redmayne : PERSON
+Eden : LOC
+Eduardo : PERSON
+Eesh : PERSON
+Egypt : GPE
+Egyptian : NORP
+Egyptians : NORP
+Eisner : ORG
+Elbridge Gerry : PERSON
+Ele : PERSON
+Elefante : PERSON
+Elefante.- Reservations : ORG
+Ella : PERSON
+Elle Fanning : PERSON
+Elliott Smith : PERSON
+Elton John : PERSON
+Elvsted : PERSON
+Emeril : PERSON
+Emeril Lagasse : PERSON
+Emilio Estevez : PERSON
+Emily : PERSON
+Emily Deschanel : PERSON
+Emily Mortimer.- : PERSON
+Emily Van Camp : PERSON
+Emma Goldman : PERSON
+Emperor Finger : PERSON
+England : GPE
+Ennis : PERSON
+Eric : PERSON
+Erica : PERSON
+Erika Eleniak : PERSON
+Ernest Contralto : PERSON
+Eskimo : NORP
+Estelle : PERSON
+Ethan : PERSON
+Ethan Hawke : PERSON
+Ethiopian : NORP
+Europe : LOC
+Eva : PERSON
+Eva Braun : PERSON
+Evanston : GPE
+Evelyn : PERSON
+Everywhereindustrial : ORG
+Fabiana : PERSON
+Facebook : ORG
+Felicity Jones : PERSON
+Fergus : PERSON
+Fido : PERSON
+Fiji : NORP
+Fijis : LOC
+Finland : GPE
+Finnish : NORP
+Fitbit : ORG
+Fitch : ORG
+Flap : PERSON
+Flea Daniels : PERSON
+Fleek : PERSON
+Flim : PERSON
+Flip : PERSON
+Flippy : PERSON
+Flo : ORG
+Follies : ORG
+Fondle : PERSON
+Fonz : PERSON
+Food Court : ORG
+Fran Tarkenton : PERSON
+France : GPE
+Franch : NORP
+Franco : PERSON
+Frank Rich : PERSON
+Franken : PERSON
+Franken Berry : PERSON
+Frankie Flackery : PERSON
+Franklin : PERSON
+Franz : PERSON
+Frasier : PERSON
+Fred Durst : PERSON
+Free Tesla : ORG
+Freeze : PERSON
+French : NORP
+Fresno : GPE
+Freudian : NORP
+Fricky : PERSON
+Frieda : PERSON
+Friendster : PERSON
+Frito : ORG
+Fritz : PERSON
+Frosty : PERSON
+Fuddruckers : ORG
+Fugees : GPE
+Fuji : LOC
+Funky Spider : PERSON
+Fuzzyface : ORG
+Gabe : PERSON
+Gabe Jr. : PERSON
+Gabriela : PERSON
+Gaddafi : PERSON
+Galapagos : LOC
+Gandhi : PERSON
+Garmin : ORG
+Gary : PERSON
+Gaz : PERSON
+Geico : ORG
+Gekko : PERSON
+Gekko Rabitowitz : PERSON
+Gemberly : GPE
+Gemini : ORG
+Gentle Farms : ORG
+George : PERSON
+George Bailey : PERSON
+George Clooney : PERSON
+George Foreman Grill : PERSON
+Gere : PERSON
+German : NORP
+Germany : GPE
+Gerwig : PERSON
+Ghandi : PERSON
+Gina : PERSON
+Gina Cazador : PERSON
+Ginny : PERSON
+Gino : PERSON
+Ginsberg : PERSON
+Girl Croosh : PERSON
+Girtletaub : PERSON
+Gizmodo : ORG
+Gladys : PERSON
+Glee Club : ORG
+Glenn Close : PERSON
+Globe : ORG
+Gloria Stein : PERSON
+Gnarls Barkley : PERSON
+God : PERSON
+Goddamnit : PERSON
+Golden Globe : ORG
+Golden Globes : ORG
+Goldie : PERSON
+Gonna : PERSON
+Goo : PERSON
+Gooba Gooberry Falls : LOC
+Goober : PERSON
+Goodbye.- : ORG
+Goody Oats : ORG
+Google : ORG
+Goose : PERSON
+Goose Van Sant : PERSON
+Gorbachev : PERSON
+Gotten : PERSON
+Grandma Piccolino : PERSON
+Grauman : PERSON
+Greek : NORP
+Greensboro : GPE
+Greg : PERSON
+Gregory Hines : PERSON
+Gregory Hsung : PERSON
+Gremlin : PERSON
+Greta : PERSON
+Griffith : PERSON
+Griffith Park : GPE
+Gronkle : ORG
+Groupon : ORG
+Grove : LOC
+Gush : ORG
+Gusto : PERSON
+Guy : PERSON
+Gwyneth : PERSON
+Haberdasher : PERSON
+Haiti : GPE
+Haley Joel : PERSON
+Haley Joel Osment : PERSON
+Halle Berry : PERSON
+Hallmark : ORG
+Hambone : PERSON
+Hamilton : PERSON
+Hammers : ORG
+Hank : PERSON
+Hank Hippopopalous : PERSON
+Harriet : PERSON
+Harry Chapin : PERSON
+Harry Potter : PERSON
+Harvard : ORG
+Harvey Fierstein : PERSON
+Hasenpfeffer Incorporated : PERSON
+Hawaii : GPE
+Hawk : PERSON
+Hea : PERSON
+Heelys : PERSON
+Heidi : PERSON
+Heidsieck Diamant : PERSON
+Helen : PERSON
+Helen Molesworth : PERSON
+Henrietta : GPE
+Henry : PERSON
+Henry Fondle : PERSON
+Henry Fondleby : PERSON
+Henry Winkler : PERSON
+Herb : PERSON
+Herb Kazaz : PERSON
+Herb Kazazz : PERSON
+Herb Kazzaz : PERSON
+Herbitat For Henranity : ORG
+Hilary Swank : PERSON
+Hill : PERSON
+Hilton : ORG
+Hippopopalous : GPE
+Hmph : PERSON
+Hob : PERSON
+Hock : PERSON
+Hogwarts : PERSON
+Hokey : PERSON
+Hollister : PERSON
+Holly : PERSON
+Hollyhock : PERSON
+Hollywoo : LOC
+Hollywoo Foreign Press : ORG
+Hollywoob : PERSON
+Hollywood : GPE
+Honeydew : GPE
+Honolulu : GPE
+Hooba : PERSON
+Hooray : PERSON
+Hooters : NORP
+Horseman : PERSON
+Horseman?- Not : PERSON
+Horsey : GPE
+House : ORG
+Houseman : PERSON
+Houston : GPE
+Howie Mandel : PERSON
+Hsung : GPE
+Huffman : PERSON
+Hugh : PERSON
+Hugh Jackman : PERSON
+Hulk : ORG
+Hulk Hogan : PERSON
+Hummer : PERSON
+Hungry Hungry Hippos : ORG
+Hyuk : PERSON
+Ibeing : NORP
+Ibsen : PERSON
+Idaho : GPE
+Igetting : PERSON
+Iher : PERSON
+Ike : PERSON
+Ikea : ORG
+Ilana : PERSON
+Ilanas : ORG
+Ileanna : PERSON
+Illuminati : ORG
+Indianapolis : GPE
+Indira : PERSON
+Ino Christopher : PERSON
+Instagram : ORG
+Internal Affairs : ORG
+Iowa : GPE
+Irish : NORP
+Irving : PERSON
+Isabel : PERSON
+Isay : PERSON
+Israel : GPE
+Israeli : NORP
+Italian : NORP
+Italians : NORP
+Ito : PERSON
+Jacinda : PERSON
+Jackson : PERSON
+Jackson Pollock : PERSON
+Jaden Smith : PERSON
+Jagger : PERSON
+Jake : PERSON
+Jamaican : NORP
+James Bond : PERSON
+James Bond.- Ehh : PERSON
+Jameson : PERSON
+Janae : PERSON
+Janet : PERSON
+Janet Gaynor : PERSON
+Janitor : PERSON
+January?- : GPE
+Japan : GPE
+Japanese : NORP
+Jared Leto : PERSON
+Jason : ORG
+Jason Lees : PERSON
+Jason Mirzizzerzaz?- : PERSON
+Jason Segel : PERSON
+Jason Sudeikis : PERSON
+Jay Hernandez : PERSON
+Jeanne : PERSON
+Jeanne Tripplehorn : PERSON
+Jeers : ORG
+Jeezy Kableezy : PERSON
+Jeff : PERSON
+Jeff Goldblum : PERSON
+Jeffretariat : PERSON
+Jeffrey Katzenberg : PERSON
+Jell : ORG
+Jennifer Garner : PERSON
+Jennifer Jason Leigh : PERSON
+Jennifer Picarello : PERSON
+Jenny Holzer : PERSON
+Jerb : PERSON
+Jeremiah Whitewhale : PERSON
+Jerry Lewis : PERSON
+Jessica : PERSON
+Jessica Alba : PERSON
+Jessica Atkinson : PERSON
+Jessica Biel : PERSON
+Jessica Biel?- : PERSON
+Jessica Chastain : PERSON
+Jessicas : GPE
+Jesus : PERSON
+Jesus Christ : PERSON
+Jew : NORP
+Jewish : NORP
+Jews : NORP
+Jill : PERSON
+Jill Filipowicz.- : PERSON
+Jill Pill : PERSON
+Jill Pill?- Right : PERSON
+Jill]- : PERSON
+Jim Carrey : PERSON
+Jimmy Fallon : PERSON
+Jinx : PERSON
+Joan : PERSON
+Joby : PERSON
+Joe : PERSON
+Joe Pesci : PERSON
+Joelle : PERSON
+Joey : PERSON
+Joey Bishop : PERSON
+Joey Pogo : PERSON
+John : PERSON
+John Carpenter : PERSON
+John Carroll Lynch : PERSON
+John Davidson : PERSON
+John Edwards : PERSON
+John Grisham : PERSON
+John Hughes : PERSON
+John Philbert : PERSON
+John Stamos : PERSON
+John Wilkes : PERSON
+John Wilkes Booth : PERSON
+Johnny : PERSON
+Johnny Depp : PERSON
+Joke : PERSON
+Jonathan : PERSON
+Jonathan Taylor : PERSON
+Jorge : PERSON
+Jose : GPE
+Jose Canseco : PERSON
+Jose Guerrero : PERSON
+Joseph : PERSON
+Joseph Stalin : PERSON
+Joseph Sugarman : PERSON
+Josephine : PERSON
+Josh Brolin : PERSON
+Josh Groban : PERSON
+Josh Radnor : PERSON
+Joss Whedon : PERSON
+Jr.Jamie Lee Curtis : PERSON
+Judah : GPE
+Judd Apatow : PERSON
+Judd Nelson : PERSON
+Judith Butler : PERSON
+Judo : PERSON
+Judy : PERSON
+Judy Garland : PERSON
+Juilliard : ORG
+Juju : PERSON
+Julia : PERSON
+Julie Brown : PERSON
+Juliet : PERSON
+Julius Caesar : PERSON
+Juniper : PERSON
+Jurj : PERSON
+Jurj Clooners : PERSON
+Justin : ORG
+Justin Kenyon : PERSON
+Kalamata : GPE
+Kandahar : GPE
+Kane : PERSON
+Kansas : GPE
+Kansas City : GPE
+Kanye West : PERSON
+Kaplan : PERSON
+Kapleshky : PERSON
+Kaput : PERSON
+Kardashian : NORP
+Karen : PERSON
+Karen Kitada : PERSON
+Kathy Ireland : GPE
+Katie : PERSON
+Katrina : PERSON
+Katy Perry : PERSON
+Kazaz : GPE
+Kazzaz : PERSON
+Keener : PERSON
+Keith : PERSON
+Kelly Ripa : PERSON
+Kelsey : PERSON
+Kelsey Jannings : PERSON
+Kennedy : PERSON
+Kenny : PERSON
+Kenzie : PERSON
+Kerri Strug : PERSON
+Kerry : PERSON
+Kevin : PERSON
+Kevin Corrigan : PERSON
+Kevin Kline : PERSON
+Kevin Spacey : PERSON
+Kia Sportage Cash Grab : ORG
+Kia Sportage Cash Grab Booth : ORG
+Kiefer : PERSON
+Kiki : PERSON
+Kim Jong : PERSON
+Kimber : PERSON
+King Mutt : PERSON
+King Pusspuss : ORG
+Kinko : PERSON
+Kirkland : ORG
+Kirkman : PERSON
+Kiss : PERSON
+Kissinger : PERSON
+Kit Kat : PERSON
+Kit Kats : PERSON
+Klaus : PERSON
+Klimt : PERSON
+Knickerbocker : ORG
+Knicks : ORG
+Knott : ORG
+Kofi Makir : PERSON
+Kojak : PERSON
+Koontz : PERSON
+Korean : NORP
+Kramer : PERSON
+Krissy Keating : PERSON
+Kubrick : PERSON
+Kyle : PERSON
+Kyoto : GPE
+Labrador : GPE
+Labrador Peninsula : LOC
+Lady : PERSON
+Lady Footlocker : ORG
+Lady Gaga : PERSON
+Lake : LOC
+Lake Erie : LOC
+Lakes : LOC
+Lara Croft : PERSON
+Larry : PERSON
+Larson : ORG
+Latin : NORP
+Laughing Gassy : PERSON
+Laura : PERSON
+Laura Linney : PERSON
+Laurel : PERSON
+Lauryn : PERSON
+Lazy Susans : ORG
+Lee : PERSON
+Leland Stanford : PERSON
+Lenny : PERSON
+Lenny Turteltaub : PERSON
+Leno : PERSON
+Leo : PERSON
+Leonard Cohen : PERSON
+Leonard Maltin : PERSON
+Leslie Mann : PERSON
+Linda : PERSON
+Lindsay : PERSON
+Lindsay Lohan : PERSON
+Lindy : PERSON
+Lisa : PERSON
+Lisa Lampanelli : PERSON
+Little Caesar : PERSON
+Liverpool : GPE
+Lizzie Dunbar : PERSON
+Loam : PERSON
+Lohan : PERSON
+Lokos : PERSON
+Lompoc : LOC
+Lomu : PERSON
+Lopez : PERSON
+Lora : PERSON
+Lorraine : PERSON
+Los : GPE
+Los Angeles : GPE
+Lotta : ORG
+Lou Bega : PERSON
+Louis Kitton : PERSON
+Lubitsch : PERSON
+Lucille Eightball : PERSON
+Lucretia : PERSON
+Luis Guzman : PERSON
+Luke Wilson : PERSON
+Lungs : PERSON
+Lynn : PERSON
+Machu : PERSON
+Machu Picchu : PERSON
+Maddy : PERSON
+Madeline : PERSON
+Madison : PERSON
+Madrid : GPE
+Maggot Gyllenhaal : PERSON
+Maid Marian : ORG
+Maine : GPE
+Mainstage : ORG
+Maker : ORG
+Malibu : GPE
+Malibu.- : ORG
+Malibu?- : ORG
+Manhattan : GPE
+Manheim : GPE
+Mannheim : GPE
+Marc Cherry : PERSON
+Marcy : PERSON
+Margaret Thatcher : PERSON
+Margo : PERSON
+Margo Martindale : PERSON
+Mariah : PERSON
+Marian : PERSON
+Marie : PERSON
+Marie Curie : PERSON
+Mario : PERSON
+Mario Lopez : PERSON
+Marisa : PERSON
+Marisa Tomei : PERSON
+Marjorie : PERSON
+Mark : PERSON
+Mark Feuerstein : PERSON
+Mark Wahlberg : PERSON
+Marla : PERSON
+Mars : LOC
+Martha : LOC
+Martian : NORP
+Martindale : PERSON
+Marty : PERSON
+Marv : PERSON
+Mary : PERSON
+Maryssa : PERSON
+Masaccio : PERSON
+Maserati : ORG
+Matins : PERSON
+Matisse : PERSON
+Matt : PERSON
+Matt Lauer : PERSON
+Matt Minnowman : PERSON
+Matthew Fox : PERSON
+Matthew Perry : PERSON
+Maude : PERSON
+Max : PERSON
+Max Headroom : PERSON
+Maximillian Banks : PERSON
+Maya Angelou : PERSON
+Maybeshould : PERSON
+Mazda : ORG
+Meagan : PERSON
+Med School : ORG
+Medgar Evers : PERSON
+Medicine Woman : ORG
+Mediterranean : LOC
+Meester Horseman : PERSON
+Megyn Kelly : PERSON
+Melodie : PERSON
+Memoriam : PERSON
+Mentos : PERSON
+Meow Meow : PERSON
+Meow Meow Fuzzyface : PERSON
+Meow Meow Fuzzyface Mystery : PERSON
+Mercedes : ORG
+Meryl : PERSON
+Meryl Streep : PERSON
+Mexican : NORP
+Mexico City : GPE
+Mia : PERSON
+Miam : GPE
+Michael Eisner : PERSON
+Michael Jordan : PERSON
+Michael Morgan : PERSON
+Michael Vick : PERSON
+Michelangelo : PERSON
+Michele : PERSON
+Michelle Monaghan : PERSON
+Michelle Pfeiffer : PERSON
+Mickey : PERSON
+Mickey Rourke : PERSON
+Mike : PERSON
+Mike Tyson : PERSON
+Mila : PERSON
+Mila Kunis : PERSON
+Miles : PERSON
+Milwaukee : GPE
+Mimi : PERSON
+Minaj : PERSON
+Mindy : PERSON
+Minneapolis : GPE
+Minnowman : PERSON
+Miss : PERSON
+Miss Sinclair : PERSON
+Mississippi : GPE
+Missy : PERSON
+Mitt : PERSON
+Modern American : NORP
+Modesto : GPE
+Molly : PERSON
+Molly Ringwald : PERSON
+Mommy : PERSON
+Monk : PERSON
+Montana : GPE
+Moonves : PERSON
+Moose : PERSON
+Morgan : ORG
+Mork : PERSON
+Mort : PERSON
+Mort Creamerman : PERSON
+Motown : ORG
+Movie Star : PERSON
+Muffin : PERSON
+Mulch : PERSON
+Multiple Choice Buzz : ORG
+Mummy : PERSON
+Muppet : NORP
+Musicalgoes : GPE
+Mustache Todd : PERSON
+Mwah : PERSON
+Nadia : PERSON
+Nana Peanutbutter : PERSON
+Nancy : PERSON
+Nancy Reagan : PERSON
+Nantucket : GPE
+Naomi : PERSON
+Naomi Watts : PERSON
+Naperville : GPE
+Narcissus : PERSON
+Nat King Cole : PERSON
+Natalie : PERSON
+Natalie Portman : PERSON
+Natalie Wood : PERSON
+Natasha : PERSON
+Navy : ORG
+Nay : PERSON
+Nazi : NORP
+Nazi Germany : GPE
+Nazis : NORP
+Neal : PERSON
+Neptune : LOC
+New England : LOC
+New Haven : GPE
+New Media : ORG
+New Mexican : NORP
+New Mexico : GPE
+New Orleans : GPE
+New Voice : ORG
+New York : GPE
+New Zealand : GPE
+Newtopia : ORG
+Nguyen : PERSON
+Nic Cage : PERSON
+Nick Nolte : PERSON
+Nickis : GPE
+Nicole : PERSON
+Nixon : PERSON
+Nofish : PERSON
+Nom : PERSON
+Nora : PERSON
+Norman : PERSON
+Norris : PERSON
+North Carolina : GPE
+North Hollywood : GPE
+Northern Cordovia : LOC
+Northwestern : LOC
+Nowheresville : GPE
+Oberlin : GPE
+Octavia Spenceror : PERSON
+Octomom : ORG
+Odysseus : ORG
+Ohio : GPE
+Ojai : ORG
+Okie : PERSON
+Oklahoma : GPE
+Old Navy : ORG
+Olive : PERSON
+Oliver North : PERSON
+Olivia : PERSON
+Olympia : GPE
+Oreo : NORP
+Oscar : PERSON
+Ottawa : GPE
+Ottawan : PERSON
+Ouija : NORP
+Oval Office : ORG
+Ove Waldner : PERSON
+Ovians : NORP
+Oxnard : PERSON
+Pacific Ocean : LOC
+Pacific Ocean City : LOC
+Paige : PERSON
+Paige Sinclair : PERSON
+Pakistani : NORP
+Palm Pilot : ORG
+Paloma : ORG
+Panda Express : ORG
+Papa Dashawn : PERSON
+Papa Greg : PERSON
+Papa Steve : PERSON
+Pappy Van Winkle : PERSON
+Paris : GPE
+Partridges : ORG
+Pastiches : PERSON
+Pat Buchanan : PERSON
+Patagonia : GPE
+Patricia Clarkson : PERSON
+Patrick Harrison Ford : PERSON
+Pats : PERSON
+Patsy Cline : PERSON
+Paul : PERSON
+Paul Feig : PERSON
+Paul Giamatti : PERSON
+Paul Rudd : PERSON
+Pauley Perrette : PERSON
+Peabut Nutter : PERSON
+Peanut : PERSON
+Peanutbottle : ORG
+Peanutbutter : PERSON
+Peanutbutter!- True : PERSON
+Pedro : PERSON
+Peeper Number.- Diane : PERSON
+Penguin Publishing : ORG
+Peninsula : LOC
+Penn : ORG
+Penny : PERSON
+Penny Carson : PERSON
+Pepper : PERSON
+Pepsi Cola : ORG
+Pepsico : ORG
+Performance Fleece : ORG
+Periscope : ORG
+Pete : PERSON
+Pete Repeat : PERSON
+Peter : PERSON
+Peter Scolari : PERSON
+Peter Sellers : PERSON
+Pfft : PERSON
+Phil : PERSON
+Philbert : PERSON
+Philbert Stilton : PERSON
+Philburrito : PERSON
+Philip Morris Disney : ORG
+Phillips : PERSON
+Pho : ORG
+Phoebe : PERSON
+Phuzzy : ORG
+Picarello : PERSON
+Pickles : PERSON
+Pico : ORG
+Piggish : NORP
+Ping : PERSON
+Pinkberry : ORG
+Pinky : PERSON
+Pinky Penguin : PERSON
+Pinot : LOC
+Piper Perabo : PERSON
+Pixar : ORG
+Pizza Hut : ORG
+Planet : LOC
+Plastico : ORG
+Pluto : LOC
+Poconos : ORG
+Pogo : PERSON
+Polish : NORP
+Polly : PERSON
+Pony Roma : ORG
+Popsicle : ORG
+Porcupine Town : LOC
+Portland : GPE
+Portnoy : PERSON
+Pottery Barn : ORG
+Prague : GPE
+Prairie Home Companion : ORG
+Pricewater : PERSON
+Princess Katniss.- : PERSON
+Priscilla Barnes : PERSON
+Priscilla Crustacean : PERSON
+Priusesautomatically : PERSON
+Progressive : ORG
+Protestant : NORP
+Prozac : ORG
+Pukes : PERSON
+Quackers : ORG
+Quantum : ORG
+Queefburglar69 : ORG
+Quentin : PERSON
+Quentin Tarantulino : PERSON
+Quinn : PERSON
+Rabitowitz : PERSON
+Radcliffe : PERSON
+Ralph : PERSON
+Ralph Stilton : PERSON
+Ramona : PERSON
+Ran : PERSON
+Randy : PERSON
+Raquel : PERSON
+Rasputin.- : PERSON
+Rauschenberg : PERSON
+Raven : PERSON
+Ravital : ORG
+Raw Dog : ORG
+Really?- : PERSON
+Rebecca : PERSON
+Rebecca Ferguson : PERSON
+Red Bull : ORG
+Reelect : ORG
+Reggie : PERSON
+Regis : ORG
+Rehab : ORG
+Renata : ORG
+Rice : PERSON
+Richie Osborne : PERSON
+Rick : PERSON
+Ricki : PERSON
+Rickie : PERSON
+Rihanna : PERSON
+Riley : ORG
+Rin Tin Tin : PERSON
+Rite Aid : ORG
+Rizzo : PERSON
+Rob Durst : PERSON
+Rob Lowe : PERSON
+Rob Schneider : PERSON
+Robert Altman : PERSON
+Robert Blake : PERSON
+Robert Downey : PERSON
+Robert Downey Jr. : PERSON
+Robert Downey.- Junior : PERSON
+Robert Redford : PERSON
+Robin Hood : PERSON
+Robot House : ORG
+Rodney Dangerfield : PERSON
+Roger Dangerfield : PERSON
+Rolodex : ORG
+Roman Polanski : PERSON
+Ronnie : PERSON
+Ronnie Bonito : PERSON
+Ronnie Milsap : PERSON
+Rooney : PERSON
+Roosevelt : PERSON
+Rosebud : PERSON
+Roxy : PERSON
+Royal Navy : ORG
+Ruminating : PERSON
+Russell Brand : PERSON
+Russia : GPE
+Russian : NORP
+Russians : NORP
+Rusty : PERSON
+Rutabaga : PERSON
+Ruthie : PERSON
+Ryan : PERSON
+Ryan Gosling : PERSON
+Ryan Murphy : PERSON
+Ryan Seacrest Type : PERSON
+Ryder : ORG
+Sabrina : PERSON
+Sabrinafrom : GPE
+Sadie : PERSON
+Saint Laurent : GPE
+Salinger : PERSON
+Sally : PERSON
+Sam German : PERSON
+Samantha Floppy : PERSON
+Samie : PERSON
+San Andreas : LOC
+San Diego Union : GPE
+San Francisco : GPE
+Sandra : PERSON
+Sandro : PERSON
+Santa Barbara : GPE
+Santa Monica : GPE
+Santiago : PERSON
+Saoirse Ronan : PERSON
+Sara Lynn : PERSON
+Sarah : PERSON
+Sarah Helmulfarb : PERSON
+Sarah Jessica Parker : PERSON
+Sarah Koenig : PERSON
+Sarah Lipschitz : PERSON
+Sarah Lynn : PERSON
+Sartre : PERSON
+Saskatchewan : GPE
+Sassafras : LOC
+Sassy : ORG
+Sassy Malone : PERSON
+Savion Glover : PERSON
+Scarlett Johansson : PERSON
+Schaumburg : GPE
+Schlamme : PERSON
+Schlesinger : PERSON
+Scooby : PERSON
+Scotland : GPE
+Scott Wolf : PERSON
+Seaborn : ORG
+Sean : PERSON
+Sean Penn : PERSON
+Seattle : GPE
+Sebastian : PERSON
+Sebastian Janikowski : PERSON
+Sebastian St. Clair : PERSON
+Sebastian St. Claire : PERSON
+Secre : ORG
+Secretariat : PERSON
+Senate : ORG
+Sextina : ORG
+Sextina Aquafina : PERSON
+Sextina Aquafinais : PERSON
+Shakespeare : PERSON
+Shalhoub : PERSON
+Shamu : PERSON
+Shania Twain : PERSON
+Shannon : PERSON
+Sharc Jacobs : ORG
+Sharon Lynn : PERSON
+Sharona : PERSON
+Sharpie : ORG
+Shawn : PERSON
+Shawshank : PERSON
+Sheila : PERSON
+Shenanigags : ORG
+Shep : PERSON
+Shep Von Trapp : PERSON
+Sherman Hemsley : PERSON
+Sherman Oaks : GPE
+Shinola : ORG
+Shirley : PERSON
+Shitshow : PERSON
+Showtime : ORG
+Shreked : PERSON
+Shush : GPE
+Silly : PERSON
+Silver Lake : GPE
+Silvia : PERSON
+Simon : PERSON
+Sinatra : PERSON
+Sinclair : ORG
+Sissy : PERSON
+Sister Marguerite : PERSON
+Skinny Gina : PERSON
+Sloane : ORG
+Sloane Crosley : ORG
+Slovakian : NORP
+Smash Mouth : ORG
+Smirnoff : ORG
+Smoodie : PERSON
+Smoodies : PERSON
+Smurfette : PERSON
+Snapchat : PERSON
+Snapchatting : ORG
+Snatch Batch : ORG
+Snoopy : PERSON
+Soberopolis : GPE
+Society : ORG
+Sofia : GPE
+Soho : ORG
+Son : PERSON
+Sondheim : PERSON
+Sonny : PERSON
+South Africa : GPE
+South Central : LOC
+Southern : NORP
+Southern California : LOC
+Space Needle : ORG
+Spanish : NORP
+Spelman : PERSON
+Spencer : PERSON
+Spronk : GPE
+Squirrelinghetti : ORG
+Squirt : ORG
+St. Mary : GPE
+Stacey : PERSON
+Stan : PERSON
+Stanford : ORG
+Stanislothski : NORP
+Stank : ORG
+Stanky Hanky : PERSON
+Starbucks : ORG
+Staten Islander : NORP
+Stefan Urquelle : PERSON
+Stefani : PERSON
+Steinem : ORG
+Stellan : PERSON
+Stephen King : PERSON
+Stephen Soderbergh : PERSON
+Steve : PERSON
+Steve Carell : PERSON
+Steve Mannheim : PERSON
+Steve Urkel : PERSON
+Steven Spielberg : PERSON
+Stiller : PERSON
+Stilton : PERSON
+Stilton Cards : ORG
+Stingray Liotta : PERSON
+Stinky Susan : PERSON
+Stockard Channing : PERSON
+Stone : PERSON
+Storky : ORG
+Streep : ORG
+Strib : GPE
+Stribs : ORG
+Strindberg : PERSON
+Stuart : PERSON
+Studio : ORG
+Subway Jared : ORG
+Sudan : GPE
+Sugarman : PERSON
+Sugarman West : ORG
+Sundance : NORP
+Sunshine : PERSON
+Sup : PERSON
+Supper Club : ORG
+Supreme Court : ORG
+Susan : PERSON
+Susan Sarandon : PERSON
+Susans : NORP
+Susie : PERSON
+Susie Side : PERSON
+Sutherland : PERSON
+Swamp Monsters : ORG
+Sweet : PERSON
+Swiss : NORP
+Switch Boulder : ORG
+Switzerland : GPE
+Sybilla Masters : ORG
+Sylvia Plath : PERSON
+Taken : PERSON
+Taliban : ORG
+Tamara : PERSON
+Tamera : PERSON
+Tampa : GPE
+Taneisha : ORG
+Tanya : PERSON
+Target : ORG
+Taser : PERSON
+Tasha : PERSON
+Tatum : PERSON
+Taylor : PERSON
+Team Chavez : ORG
+Ted : PERSON
+Teddy : PERSON
+Teddy Buttons : PERSON
+Teddy Rooseveltreboot : PERSON
+Teller : PERSON
+Temecula : GPE
+Tennessee : GPE
+Teresa : PERSON
+Teri Hatcher : PERSON
+Terrence Malick : PERSON
+Terry : PERSON
+Tesla : ORG
+Texas : GPE
+Thai : NORP
+Thailand : GPE
+The Mighty Mighty Bosstones : ORG
+The Pacific Ocean Film Fest : ORG
+The People : ORG
+Thin Mint : ORG
+Thismovie : PERSON
+Thistlethorpe : PERSON
+Thomas Kinkade : PERSON
+Thora Birch : PERSON
+Tim Allen : PERSON
+Tim Burton : PERSON
+Time : ORG
+Time Warner : ORG
+Timedium : ORG
+Tina : PERSON
+Tina Turner : PERSON
+Tino : PERSON
+Toad : PERSON
+Toaster Strudel : PERSON
+Tobey Maguire : PERSON
+Toblerone : NORP
+Todd : PERSON
+Todd Chavez : PERSON
+Todd Head : PERSON
+Todd Nguyen : PERSON
+Toddline : GPE
+Todds : PERSON
+Tom : PERSON
+Tom Cruise : PERSON
+Tom Jumbo : PERSON
+Tom Srant : PERSON
+Tommy : PERSON
+Tommy Schlamme : PERSON
+Tony : PERSON
+Tony Curtis : PERSON
+Tony Roma : PERSON
+Tony Tromboni : PERSON
+Tonya : PERSON
+Tonya Harding : PERSON
+Tor : ORG
+Torah : PERSON
+Tori Spelling : PERSON
+Toronto : GPE
+Toscani : PERSON
+Tourette : ORG
+Tovah : PERSON
+Toyota : ORG
+Toys Galore : ORG
+Tracy : PERSON
+Trader Joe : ORG
+Tran : PERSON
+Trey : PERSON
+Tristan : PERSON
+Tudor : PERSON
+Tufts : ORG
+Tupac Shakur : PERSON
+Turbidians : NORP
+Turtel : ORG
+Turteltaub : GPE
+Turtletaub : PERSON
+Tut : PERSON
+Tweeds : PERSON
+Twinsies : PERSON
+Twister : PERSON
+Twix : PERSON
+Ubisoft : ORG
+Uganda : GPE
+Ugh.- : ORG
+Uncle George : PERSON
+Uncle Hanky : PERSON
+Underground Railroad : ORG
+Uneventful : PERSON
+United States : GPE
+University Theater : ORG
+Univision : ORG
+Unpopped : PERSON
+Upper Westside : LOC
+Urine?- : PERSON
+Urkel : PERSON
+Val Kilmer : PERSON
+Valley : LOC
+Van Cleef : PERSON
+Van Nuys : GPE
+Van Sant : PERSON
+Vance : PERSON
+Vance Waggoner : PERSON
+Vanessa : PERSON
+Vanessa Gecko : PERSON
+Vanessa Geckos : PERSON
+Vanessa Gekko : PERSON
+Vassar : ORG
+Verdana : ORG
+Veronica : PERSON
+Vicodin : ORG
+Vietnam : GPE
+Vietnamese : NORP
+Vigor : PERSON
+Vim : PERSON
+Vincent : PERSON
+Vincent Adultman : PERSON
+Virgil : PERSON
+Virgil Van Cleef : PERSON
+Virginia : GPE
+Vitamix : ORG
+Vivaldi : PERSON
+Vivica : PERSON
+Volvo : ORG
+Waco : GPE
+Waggoner : PERSON
+Waiter : PERSON
+Waka : PERSON
+Wakey : PERSON
+Wallace : PERSON
+Wallace Shawn : PERSON
+Wallaces : PERSON
+Wally : PERSON
+Walnut Springs : GPE
+Walnut Springses : PERSON
+Walt Disney : PERSON
+Walt Disney Company : ORG
+Wanda : PERSON
+Washington : GPE
+Wayne : PERSON
+Webster : PERSON
+Wendy : ORG
+Wendy Wiggum : PERSON
+Wes Anderson : PERSON
+Wesleyan : ORG
+West Coast Operations : ORG
+Westerns : NORP
+Whale World : ORG
+Whassup : PERSON
+What Time Is It Right Now : ORG
+Wheaties : ORG
+Whew : PERSON
+White : PERSON
+White House : ORG
+Whitewhale Consolidated Interests : ORG
+Whitfield : PERSON
+Whittagut : ORG
+Whole Foods : ORG
+Wichita : GPE
+Wilbur : PERSON
+Will Smith : PERSON
+William Shakespeareand : PERSON
+Willie Wesleyan : PERSON
+Willis Tower : PERSON
+Wilshire : GPE
+Winkity : ORG
+Winkler : PERSON
+Winkly : PERSON
+Winslow : PERSON
+Winters : PERSON
+Withas : PERSON
+Witherspoon : PERSON
+Woodchuck : PERSON
+Woodchuck Coodchuck : PERSON
+Woody Allen : PERSON
+Wurlitzer : PERSON
+Xbox : ORG
+Xerox : ORG
+Yahoo : ORG
+Yale : ORG
+Yale Law : ORG
+Yancy : GPE
+Yankee : ORG
+Yankees : ORG
+Yas Queen : PERSON
+Yeah.- : ORG
+Yelp : ORG
+Yolanda : PERSON
+Yolanda Buenaventura : PERSON
+Yoo : PERSON
+Yorba : GPE
+Youlooking : PERSON
+Yourarticle : PERSON
+Yuck : PERSON
+Yum : ORG
+Yum Yum Donuts : ORG
+Zach : PERSON
+Zach Braff : PERSON
+Zachary : PERSON
+Zachary Quinto : PERSON
+Zack Snyder : PERSON
+Zelly : PERSON
+Ziegler : PERSON
+Ziggy : PERSON
+Ziggy Abler : PERSON
+Zimas : PERSON
+Zinfandel : ORG
+Zoe : PERSON
+Zooey : PERSON
+Zsa Zsa Gabor : PERSON
+Zumba : LOC
